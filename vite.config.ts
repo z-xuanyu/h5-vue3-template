@@ -21,5 +21,12 @@ export default defineConfig({
       '/api': 'http://123.56.85.24:5000'//代理网址
     },
     cors:true,
+  },
+  css:{
+    preprocessorOptions:{
+      scss:{
+        additionalData:'@import "./src/styles/index.scss";', // 全局样式变量
+      }
+    }
   }
 })

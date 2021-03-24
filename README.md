@@ -1,6 +1,6 @@
-# Vue 3 + Typescript + Vite
+# Vue 3 + Typescript + Vite + Vant UI
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+这个模板应该可以帮助您快速开发Vue 3和Vite中的Typescript和Vant UI组合通用H5WebApp应用。
 
 ## Recommended IDE Setup
 
