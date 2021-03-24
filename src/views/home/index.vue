@@ -19,7 +19,7 @@ export default defineComponent({
 <style lang="scss" scoped>
 .home-page {
   .test {
-    color:$color;
+    color:map-get($colors, "primary");
     @include text-center;
   }
 }
